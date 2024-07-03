@@ -1,0 +1,163 @@
+,Corr,Cond,Pred Model,Param
+0,0.37482513542460805,"high BMP4,high RA all",Mult Neg,b
+1,0.39889899890644964,"high BMP4,high RA all",Mult Neg,beta
+2,0.4469973386941716,"high BMP4,high RA all",Mult Neg,gamma
+3,0.23277056859047784,"high BMP4,high RA RF",Mult Neg,b
+4,0.401910609168868,"high BMP4,high RA RF",Mult Neg,beta
+5,0.35728826648433576,"high BMP4,high RA RF",Mult Neg,gamma
+6,0.49898202585300855,"high BMP4,high RA all",Mult,b
+7,0.5571380098587346,"high BMP4,high RA all",Mult,beta
+8,0.44547159942346226,"high BMP4,high RA all",Mult,gamma
+9,0.4962410412174007,"high BMP4,high RA RF",Mult,b
+10,0.6306105289443847,"high BMP4,high RA RF",Mult,beta
+11,0.4052523203636531,"high BMP4,high RA RF",Mult,gamma
+12,0.08734359613305147,"high BMP4,high RA all",Add Neg,b
+13,0.4409024957395673,"high BMP4,high RA all",Add Neg,beta
+14,-0.07677329667546418,"high BMP4,high RA all",Add Neg,gamma
+15,-0.1481948555561828,"high BMP4,high RA RF",Add Neg,b
+16,0.17564184797833196,"high BMP4,high RA RF",Add Neg,beta
+17,-0.14979327583595714,"high BMP4,high RA RF",Add Neg,gamma
+18,-0.1481948555561828,"high BMP4,high RA all",Add,b
+19,0.17564184797833196,"high BMP4,high RA all",Add,beta
+20,-0.14979327583595714,"high BMP4,high RA all",Add,gamma
+21,-0.1481948555561828,"high BMP4,high RA RF",Add,b
+22,0.17564184797833196,"high BMP4,high RA RF",Add,beta
+23,-0.14979327583595714,"high BMP4,high RA RF",Add,gamma
+24,0.33612755500964375,"high BMP4,high RA logreg",Mult,b
+25,0.3960457363725542,"high BMP4,high RA logreg",Mult,beta
+26,0.14541092253336801,"high BMP4,high RA logreg",Mult,gamma
+27,0.5203516128751714,"mid BMP4,mid RA all",Mult Neg,b
+28,0.43161359686391604,"mid BMP4,mid RA all",Mult Neg,beta
+29,0.5141291765629631,"mid BMP4,mid RA all",Mult Neg,gamma
+30,0.4605909753159341,"mid BMP4,mid RA RF",Mult Neg,b
+31,0.5051767993470552,"mid BMP4,mid RA RF",Mult Neg,beta
+32,0.4852119083413747,"mid BMP4,mid RA RF",Mult Neg,gamma
+33,0.674051152757789,"mid BMP4,mid RA all",Mult,b
+34,0.5933595477451377,"mid BMP4,mid RA all",Mult,beta
+35,0.6701242615076277,"mid BMP4,mid RA all",Mult,gamma
+36,0.6053867209402614,"mid BMP4,mid RA RF",Mult,b
+37,0.5851655435633418,"mid BMP4,mid RA RF",Mult,beta
+38,0.6202618524386583,"mid BMP4,mid RA RF",Mult,gamma
+39,0.1728999784137589,"mid BMP4,mid RA all",Add Neg,b
+40,0.40564960360650243,"mid BMP4,mid RA all",Add Neg,beta
+41,0.1990470467552744,"mid BMP4,mid RA all",Add Neg,gamma
+42,0.32733873088530807,"mid BMP4,mid RA RF",Add Neg,b
+43,0.2560427287832028,"mid BMP4,mid RA RF",Add Neg,beta
+44,0.17348416928966498,"mid BMP4,mid RA RF",Add Neg,gamma
+45,0.35020413599683875,"mid BMP4,mid RA all",Add,b
+46,0.27826062908969534,"mid BMP4,mid RA all",Add,beta
+47,0.3642024539695265,"mid BMP4,mid RA all",Add,gamma
+48,0.5759178655685528,"mid BMP4,mid RA RF",Add,b
+49,0.5073639690262192,"mid BMP4,mid RA RF",Add,beta
+50,0.36777933447385786,"mid BMP4,mid RA RF",Add,gamma
+51,0.7582834579961025,"mid BMP4,mid RA logreg",Mult,b
+52,0.537542883793642,"mid BMP4,mid RA logreg",Mult,beta
+53,0.7552005471553686,"mid BMP4,mid RA logreg",Mult,gamma
+54,0.48897675309572824,"low EGF,high RA all",Mult Neg,b
+55,0.5168488415855396,"low EGF,high RA all",Mult Neg,beta
+56,0.4793756802207077,"low EGF,high RA all",Mult Neg,gamma
+57,0.33626920711188524,"low EGF,high RA RF",Mult Neg,b
+58,0.5265130599558737,"low EGF,high RA RF",Mult Neg,beta
+59,0.3706268049752342,"low EGF,high RA RF",Mult Neg,gamma
+60,0.5760495181957036,"low EGF,high RA all",Mult,b
+61,0.5922610363515562,"low EGF,high RA all",Mult,beta
+62,0.5961689547475256,"low EGF,high RA all",Mult,gamma
+63,0.4177805167374751,"low EGF,high RA RF",Mult,b
+64,0.5794791382817093,"low EGF,high RA RF",Mult,beta
+65,0.5275310898884676,"low EGF,high RA RF",Mult,gamma
+66,0.13734805995625773,"low EGF,high RA all",Add Neg,b
+67,0.44051924340216275,"low EGF,high RA all",Add Neg,beta
+68,0.1655892522035895,"low EGF,high RA all",Add Neg,gamma
+69,0.01271462904140842,"low EGF,high RA RF",Add Neg,b
+70,-0.1093246297450842,"low EGF,high RA RF",Add Neg,beta
+71,0.02733927123929959,"low EGF,high RA RF",Add Neg,gamma
+72,0.45419723914893817,"low EGF,high RA all",Add,b
+73,0.5790974195156519,"low EGF,high RA all",Add,beta
+74,0.14853231600907948,"low EGF,high RA all",Add,gamma
+75,0.5126935504307377,"low EGF,high RA RF",Add,b
+76,0.3774085663074645,"low EGF,high RA RF",Add,beta
+77,-0.3058457894739096,"low EGF,high RA RF",Add,gamma
+78,0.39360462474744295,"low EGF,high RA logreg",Mult,b
+79,0.7104307987649362,"low EGF,high RA logreg",Mult,beta
+80,0.3626582881819921,"low EGF,high RA logreg",Mult,gamma
+81,0.5416005404280857,"mid EGF,high RA all",Mult Neg,b
+82,0.4789455881075944,"mid EGF,high RA all",Mult Neg,beta
+83,0.5439656357461516,"mid EGF,high RA all",Mult Neg,gamma
+84,0.5069779472015308,"mid EGF,high RA RF",Mult Neg,b
+85,0.6013382539146868,"mid EGF,high RA RF",Mult Neg,beta
+86,0.4882914039579881,"mid EGF,high RA RF",Mult Neg,gamma
+87,0.7013159250779059,"mid EGF,high RA all",Mult,b
+88,0.673256846355114,"mid EGF,high RA all",Mult,beta
+89,0.6973044668894242,"mid EGF,high RA all",Mult,gamma
+90,0.752043156932037,"mid EGF,high RA RF",Mult,b
+91,0.7348163204733975,"mid EGF,high RA RF",Mult,beta
+92,0.7169670925007703,"mid EGF,high RA RF",Mult,gamma
+93,0.025407843948327725,"mid EGF,high RA all",Mult,b
+94,0.5919758322665485,"mid EGF,high RA all",Mult,beta
+95,0.10091352348671585,"mid EGF,high RA all",Mult,gamma
+96,0.16728229355149044,"mid EGF,high RA RF",Add Neg,b
+97,0.4215407604795004,"mid EGF,high RA RF",Add Neg,beta
+98,-0.05754026743014896,"mid EGF,high RA RF",Add Neg,gamma
+99,0.640513350009752,"mid EGF,high RA all",Add,b
+100,0.6508005754020997,"mid EGF,high RA all",Add,beta
+101,0.2770441207241706,"mid EGF,high RA all",Add,gamma
+102,0.640448816541809,"mid EGF,high RA RF",Add,b
+103,0.6885747966562622,"mid EGF,high RA RF",Add,beta
+104,-0.12044023662776257,"mid EGF,high RA RF",Add,gamma
+105,0.7537584152403887,"mid EGF,high RA logreg",Mult,b
+106,0.716426750004863,"mid EGF,high RA logreg",Mult,beta
+107,0.8328500199441635,"mid EGF,high RA logreg",Mult,gamma
+108,0.40945707546102933,"mid EGF,high RA all",Mult Neg,b
+109,0.4813074389235399,"mid EGF,high RA all",Mult Neg,beta
+110,0.43644739991951403,"mid EGF,high RA all",Mult Neg,gamma
+111,0.20073884558813415,"mid EGF,mid RA RF",Mult Neg,b
+112,0.4297685302025167,"mid EGF,mid RA RF",Mult Neg,beta
+113,0.31813920110468347,"mid EGF,mid RA RF",Mult Neg,gamma
+114,0.6672410387278337,"mid EGF,mid RA all",Mult,b
+115,0.5138087025405205,"mid EGF,mid RA all",Mult,beta
+116,0.6681890555095833,"mid EGF,mid RA all",Mult,gamma
+117,0.5275297033694976,"mid EGF,mid RA RF",Mult,b
+118,0.6459982279203805,"mid EGF,mid RA RF",Mult,beta
+119,0.563235454720432,"mid EGF,mid RA RF",Mult,gamma
+120,0.1302888010524897,"mid EGF,mid RA all",Add Neg,b
+121,0.3155049717258061,"mid EGF,mid RA all",Add Neg,beta
+122,0.02859519506855577,"mid EGF,mid RA all",Add Neg,gamma
+123,0.1591469181029552,"mid EGF,mid RA RF",Add Neg,b
+124,0.19234473544943226,"mid EGF,mid RA RF",Add Neg,beta
+125,-0.16305232519581114,"mid EGF,mid RA RF",Add Neg,gamma
+126,0.39464324678995033,"mid EGF,mid RA all",Add,b
+127,0.39635736496164703,"mid EGF,mid RA all",Add,beta
+128,0.3461793663358103,"mid EGF,mid RA all",Add,gamma
+129,0.07749835456036083,"mid EGF,mid RA RF",Add,b
+130,0.8322877272960052,"mid EGF,mid RA RF",Add,beta
+131,0.3136445447000013,"mid EGF,mid RA RF",Add,gamma
+132,0.8481440440707183,"mid EGF,mid RA logreg",Mult,b
+133,0.41245100841310994,"mid EGF,mid RA logreg",Mult,beta
+134,0.860523082745738,"mid EGF,mid RA logreg",Mult,gamma
+135,0.591067898981108,"low BMP4,high RA all",Mult Neg,b
+136,0.5784254738485938,"low BMP4,high RA all",Mult Neg,beta
+137,0.5650127744237863,"low BMP4,high RA all",Mult Neg,gamma
+138,0.5841106006394104,"low BMP4,high RA RF",Mult Neg,b
+139,0.5390436066936214,"low BMP4,high RA RF",Mult Neg,beta
+140,0.4906407216563461,"low BMP4,high RA RF",Mult Neg,gamma
+141,0.71493964260416,"low BMP4,high RA all",Mult,b
+142,0.7198108748510588,"low BMP4,high RA all",Mult,beta
+143,0.7258363782178109,"low BMP4,high RA all",Mult,gamma
+144,0.6522534311165192,"low BMP4,high RA RF",Mult,b
+145,0.7947213723373904,"low BMP4,high RA RF",Mult,beta
+146,0.645486585266488,"low BMP4,high RA RF",Mult,gamma
+147,-0.06811191711905355,"low BMP4,high RA all",Add Neg,b
+148,0.45988402151783075,"low BMP4,high RA all",Add Neg,beta
+149,0.014256494747758,"low BMP4,high RA all",Add Neg,gamma
+150,0.011418091466571143,"low BMP4,high RA RF",Add Neg,b
+151,0.13928079860209505,"low BMP4,high RA RF",Add Neg,beta
+152,0.014691705129568366,"low BMP4,high RA RF",Add Neg,gamma
+153,0.2975912898607481,"low BMP4,high RA all",Add,b
+154,0.7060229418010853,"low BMP4,high RA all",Add,beta
+155,0.1451030788187521,"low BMP4,high RA all",Add,gamma
+156,0.4381911855061099,"low BMP4,high RA RF",Add,b
+157,0.696640676050688,"low BMP4,high RA RF",Add,beta
+158,0.5549313116941694,"low BMP4,high RA RF",Add,gamma
+159,0.7027343138270897,"low BMP4,high RA logreg",Mult,b
+160,0.7472491925777693,"low BMP4,high RA logreg",Mult,beta
+161,0.7604779126358724,"low BMP4,high RA logreg",Mult,gamma

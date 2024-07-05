@@ -1,6 +1,6 @@
 # Stochastic Modeling of Biophysical Responses to Perturbation
 
-Notebooks for reproducing all figures and analysis of simulated and single-cell datasets in the paper. All saved/processed data used for analysis can be found on [CaltechData](https://data.caltech.edu/search?q=%20%2Btara%20%2Bchari%20%2Bstochastic&l=list&p=1&s=10&sort=bestmatch). Figure created with BioRender.com.
+Notebooks for reproducing all figures and analysis of single-cell datasets in the paper. All saved/processed data used for analysis can be found on [CaltechData](https://data.caltech.edu/search?q=%20%2Btara%20%2Bchari%20%2Bstochastic&l=list&p=1&s=10&sort=bestmatch). Figure created with BioRender.com.
 <div align="center"><img src="https://github.com/pachterlab/CGP_2024_2/blob/main/intro_fig.png" width=600/></div>
 
 ## Getting Started
